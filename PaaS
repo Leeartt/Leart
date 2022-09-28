@@ -1,1 +1,5 @@
-
+Plattform as a Service
+nur noch Apps und Daten werden von einem selbst gemanaged
+Anbieter hostet die Hard und Software in der eigenen Infrastruktur
+Ist primär für Programmierer und Entwickler gedacht
+Beispiel für PaaS produkte: Heroku, AWS Elastic Beanstalk oder Red Hat OpenShift
